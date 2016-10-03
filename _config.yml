@@ -19,8 +19,15 @@ description: > # this means to ignore newlines until "baseurl:"
   A blog about exploring the nature of programming.
 baseurl: "/hidden-bits" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
-github_username:  willy-vvu
+github_username: willy-vvu
 
 # Build settings
 markdown: kramdown
 theme: minima
+defaults:
+  -
+    scope:
+      path: "" # an empty string here means all files in the project
+      type: "posts"
+    values:
+      layout: "post"
