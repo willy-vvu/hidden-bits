@@ -16,7 +16,7 @@
 title: Hidden Bits
 email: willy.vvu@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  A blog about exploring potential programming directions.
+  A blog about exploring the nature of programming.
 baseurl: "/hidden-bits" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
 github_username:  willy-vvu

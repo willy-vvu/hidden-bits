@@ -4,7 +4,7 @@ title:  "A Common Concept"
 date:   2016-10-2 23:41:40 -0400
 ---
 
-Recently, I've been thinking about thinking. I've asked myself more than many times: What is programming? Contrary to the title, this blog is not neccesarily about programming. Sometimes, it won't have anything to do with programming or bits. Nonetheless, it'll be tied together under a common concept.
+Recently, I've been thinking about thinking. I've asked myself more than many times: What is programming? Contrary to the description, this blog is not neccesarily about programming. Sometimes, it won't have anything to do with programming or bits. Nonetheless, it'll be tied together under a common concept.
 
 
 
