@@ -1,8 +1,0 @@
----
-layout: post
-title:  "Hidden Bits & Programming"
-date:   2016-09-22 23:36:02 -0400
-categories: bits
----
-
-This blog is an outlet for my exploration of various methods of programming.
