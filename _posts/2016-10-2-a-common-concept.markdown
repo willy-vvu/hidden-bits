@@ -3,7 +3,7 @@ title:  "A Common Concept"
 date:   2016-10-02 23:41
 ---
 
-Recently, I've been thinking about thinking. I've asked myself more than many times: What is programming? Contrary to the description, this blog is not neccesarily about programming. Sometimes, it won't have anything to do with programming or bits. Nonetheless, it'll be tied together under a common concept.
+Recently, I've been thinking about thinking. I've asked myself more than many times: What is programming? Contrary to the description, this blog is not necessarily about programming. Sometimes, it won't have anything to do with programming or bits. Nonetheless, it'll be tied together under a common concept.
 
 From metabolic pathways to thought pathways, chemical reactions to emotional reactions, the processes that make us often lie beyond our sight. Why is it that we rarely stop to consider the digital fabric that surrounds us, to the civic network that supports us: silicon highways of information, copper highways of water and waste?
 
