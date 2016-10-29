@@ -41,9 +41,12 @@ $on-laptop:        800px;
 pre {
   overflow-x: hidden;
 }
-pre, code {
-  background-color: #eee;
-  line-height: 1.5;
+// pre{
+//   background-color: #eee;
+//   line-height: 1.5;
+// }
+pre>code{
+  background-color: transparent;
 }
 h1, h2, h3, h4, h5, h6, p, blockquote, pre, ul, ol, dl, figure, .highlight {
   margin-bottom: 1em;

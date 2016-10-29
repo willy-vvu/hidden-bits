@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Sustainable Code"
 date:   2016-10-07 21:11
 ---
@@ -12,7 +11,7 @@ Thus, I began with a "code-golf" mindset, trying to reduce the amount of code
 I needed to write. To keep things on one line, I resorted to a functional
 programming style. I dove right in with Assignment 0:
 
-{% highlight python %}
+```python
 def compute_string_properties(string):
     """Given a string of lowercase letters, returns a tuple containing the
     following three elements:
@@ -22,7 +21,7 @@ def compute_string_properties(string):
         2. The number of distinct characters in the string (hint: use a set)
     """
     return (len(string), list(reversed(sorted(list(string)))), len(set(string)))
-{% endhighlight %}
+```
 
 Not bad! But unlike real code-golf, I avoided obfuscating or minifying my
 code: in addition to making code less readable, it'd probably be a headache to
@@ -36,7 +35,7 @@ being harder to read and follow than the prose equivalent, especially as
 problems grew larger, more involved, and stopped fitting on one line. Here's
 an excerpt from Assignment 1:
 
-{% highlight python %}
+```python
 def backchain_to_goal_tree(rules, hypothesis):
     # The output should be simplified as in the previous problem (you can
     # use the simplify function). This way, you can create the goal trees
@@ -85,7 +84,7 @@ def backchain_to_goal_tree(rules, hypothesis):
       # (Add hypothesis to the OR tree as a default case where no rules match.)
       [hypothesis])
     ))
-{% endhighlight %}
+```
 
 Unfortunately, the functional syntax didn't help my coding process. As with
 `simplify(`, last-called functions would be syntactically stuck at the
@@ -109,7 +108,8 @@ I pay particular attention to the importance of writing to debug. To many
 novice programmers, the arcane symbols and structures of code can be
 alienating. Like any language, programming is learned, mistakes expected.
 Ultimately, the heart of debugging is the question, "what went wrong?". The
-answer to this seemingly innocuous question can cost hours of time. Not to mention frustration, stress, and confusion.
+answer to this seemingly innocuous question can cost hours of time. Not to
+mention frustration, stress, and confusion.
 
 Effective debugging requires a thorough understanding of multiple
 perspectives/representations and how they differ: intended behavior, source

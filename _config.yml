@@ -21,6 +21,8 @@ baseurl: "/hidden-bits" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
 github_username: willy-vvu
 
+future: true
+
 # Build settings
 markdown: kramdown
 theme: minima
