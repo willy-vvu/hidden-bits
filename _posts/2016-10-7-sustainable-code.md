@@ -1,6 +1,7 @@
 ---
 title:  "Sustainable Code"
 date:   2016-10-07 21:11
+author: willy-vvu
 ---
 
 This semester, I'm taking an introductory AI course. I already had Python

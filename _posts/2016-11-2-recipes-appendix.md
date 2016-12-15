@@ -1,6 +1,7 @@
 ---
 title:  "Recipes (Appendix)"
 date:   2016-11-2
+author: willy-vvu
 ---
 
 I was fooling around to see how other languages fare in terms of a recipe-like syntax.

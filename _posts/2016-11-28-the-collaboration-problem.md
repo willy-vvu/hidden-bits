@@ -1,9 +1,8 @@
 ---
 title:  "The Collaboration Problem"
 date:   2016-11-28
+author: paxorus
 ---
-
-*Here's a guest post from my friend, Prakhar Sahay.*
 
 Human collaboration hasn’t reached its full potential yet. How do teachers and students communicate effectively? Or employers and employees? How about team members, coworkers, and even friends? How about large classes and organizations? These channels should be two-way, fast, and not block other channels. In addition, information conveyed through the channels should be simple and fast to view and contribute.
 
