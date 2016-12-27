@@ -4,8 +4,6 @@ date:   2016-12-15
 author: paxorus
 ---
 
-Structure and Interpretation of Programming Languages
-
 MIT’s 6.001, “Structure and Interpretation of Computer Programs,” was first taught in 1980 by Hal Abelson and Gerry Sussman. Since then, the course has spread to other universities such as Berkeley and Brandeis. In 2008 MIT discontinued the course. According to [this article](http://www.posteriorscience.net/?p=206) it’s not relevant in today’s world of programming by poking, rather than understanding the underlying components. [This article](http://www.niemanlab.org/2011/11/in-praise-of-impractical-programming/), praises the course but as an impractical but fun detour. I’ve also heard students call the course useless and terrifying.
 
 In the 21st century ecosystem, where new languages and frameworks are constantly coming in and being stacked on top of existing ones, I beg to differ. We don’t create programming languages by designing syntax; we create it by implementing an evaluator, or interpreter, for it. The syntax, along with features such as garbage collection, memoization, inheritance, and evaluation patterns (memoization, laziness), is superficial fluff. If I define a language where “h” runs a solution to the Halting Problem but I can’t write an evaluator for it, have I really created that language? If Hindi can be spoken and not understood, would we really call it a language, or just gibberish? So creating a new language or framework isn’t about declaring that this will do that, or that will do this. It’s about writing the code to actually do it. Just defining the syntax is as good as waving your hands in the air.
